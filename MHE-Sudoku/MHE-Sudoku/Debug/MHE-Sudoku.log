@@ -1,0 +1,8 @@
+﻿  MHE-Sudoku.cpp
+C:\Users\Chasmer\Documents\GitHub\MHE-Sudoku-Solver\MHE-Sudoku\MHE-Sudoku\MHE-Sudoku.cpp(89,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Chasmer\Documents\GitHub\MHE-Sudoku-Solver\MHE-Sudoku\MHE-Sudoku\MHE-Sudoku.cpp(73,9): warning C4101: "n": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Chasmer\Documents\GitHub\MHE-Sudoku-Solver\MHE-Sudoku\MHE-Sudoku\MHE-Sudoku.cpp(219,15): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Chasmer\Documents\GitHub\MHE-Sudoku-Solver\MHE-Sudoku\MHE-Sudoku\MHE-Sudoku.cpp(258,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Chasmer\Documents\GitHub\MHE-Sudoku-Solver\MHE-Sudoku\MHE-Sudoku\MHE-Sudoku.cpp(307,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Chasmer\Documents\GitHub\MHE-Sudoku-Solver\MHE-Sudoku\MHE-Sudoku\MHE-Sudoku.cpp(350,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  MHE-Sudoku.vcxproj -> C:\Users\Chasmer\Documents\GitHub\MHE-Sudoku-Solver\MHE-Sudoku\Debug\MHE-Sudoku.exe
